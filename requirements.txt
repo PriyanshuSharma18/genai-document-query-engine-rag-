@@ -17,3 +17,11 @@ pypdf
 docx2txt
 langsmith==0.1.40
 numpy<2
+chromadb==0.4.24
+chroma-hnswlib==0.7.3
+posthog
+importlib-resources
+overrides
+onnxruntime
+markdown-it-py
+mdurl
