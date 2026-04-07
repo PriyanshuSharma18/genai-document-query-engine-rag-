@@ -25,3 +25,4 @@ overrides
 onnxruntime
 markdown-it-py
 mdurl
+pysqlite3-binary
