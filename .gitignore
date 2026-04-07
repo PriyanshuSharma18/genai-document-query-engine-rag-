@@ -1,0 +1,13 @@
+# Environments
+langchain_env/
+env/
+venv/
+.venv/
+__pycache__/
+
+# temporary and data store folders
+data/tmp/
+data/vector_stores/
+
+# OS files
+.DS_Store
